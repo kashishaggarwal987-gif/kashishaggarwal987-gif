@@ -10,7 +10,7 @@ Turning raw data into meaningful insights and business-focused decisions.
 
 <a href="https://kanishka-agarwal-data-analyst-portfolio.ai.studio">Portfolio</a> &nbsp;·&nbsp;
 <a href="https://www.linkedin.com/in/kanishka-agarwal-485499333/">LinkedIn</a> &nbsp;·&nbsp;
-<a href="C:\Users\ACER\Downloads\Kanishka Agarwal DA.pdf">Resume</a> &nbsp;·&nbsp;
+<a href="./Kanishka%20Agarwal%20DA.pdf">Resume</a> &nbsp;·&nbsp;
 <a href="mailto:kashishaggarwal987@gmail.com">Email</a>
 
 </div>
@@ -156,7 +156,7 @@ I'm currently exploring entry-level opportunities in:
 
 <a href="https://kanishka-agarwal-data-analyst-portfolio.ai.studio">Portfolio</a> ·
 <a href="https://www.linkedin.com/in/kanishka-agarwal-485499333/">LinkedIn</a> ·
-<a href="./Kanishka_Agarwal_Resume.pdf">Resume</a> ·
+<a href="./Kanishka%20Agarwal%20DA.pdf">Resume</a> ·
 <a href="mailto:kashishaggarwal987@gmail.com">Email</a>
 
 <br>
