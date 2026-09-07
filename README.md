@@ -23,8 +23,9 @@ Transforming raw data into meaningful insights, interactive dashboards, and data
   &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kanishka-agarwal-485499333/">LinkedIn</a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="./Kanishka_Agarwal_Resume.pdf">Resume</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+ <a href="./Kanishka_Agarwal_Resume.pdf">
+  <img src="https://img.shields.io/badge/Resume-View%20Resume-2EA44F?style=for-the-badge">
+</a>
   <a href="mailto:kashishaggarwal987@gmail.com">Email</a>
 </p>
 
