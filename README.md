@@ -1,42 +1,30 @@
-<h1 align="center">Hi there! 👋 I'm Kanishka Agarwal</h1>
+<h1 align="center">Hi 👋, I'm Kanishka Agarwal</h1>
 
-<h3 align="center">Aspiring Data Analyst | SQL | Power BI | Excel | Python | Tableau</h3>
+<h3 align="center">
+Data Analyst | Business Intelligence | SQL • Power BI • Python • Excel • Tableau
+</h3>
 
-<img align="right" alt="Data Analytics" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<p align="center">
+Turning raw data into meaningful insights, interactive dashboards, and data-driven business decisions.
+</p>
+
+<p align="center">
+  <a href="YOUR_PORTFOLIO_LINK">🌐 Portfolio</a> •
+  <a href="YOUR_LINKEDIN_LINK">💼 LinkedIn</a> •
+  <a href="YOUR_RESUME_LINK">📄 Resume</a> •
+  <a href="YOUR_TABLEAU_PUBLIC_LINK">📊 Tableau Public</a>
+</p>
+
+<br>
 
 ## 👩‍💻 About Me
 
-I am an aspiring **Data Analyst** with hands-on experience in **SQL, Power BI, Excel, Python, Tableau, Power Query, and DAX**.
+I'm a **Data Analytics fresher** with hands-on experience in building end-to-end analytics projects using **SQL, Power BI, Python, Excel, Tableau, Power Query, and DAX**.
 
-I enjoy transforming raw and complex datasets into meaningful insights through data cleaning, analysis, visualization, and interactive dashboards.
+I enjoy transforming complex datasets into **actionable insights, interactive dashboards, and business-focused recommendations**.
 
-I have worked on multiple end-to-end analytics projects across **sales, finance, banking, customer behavior, healthcare, and business analytics** to strengthen my practical data analysis and problem-solving skills.
-
-Currently, I am focused on building a strong portfolio and preparing for **Data Analyst, Business Analyst, and Business Intelligence Analyst** opportunities.
-
----
-
-## 💻 Core Competencies
-
-- 🐍 **Programming & Analysis:** Python, Pandas, NumPy
-- 🗄️ **Database & SQL:** MySQL, SQL Queries, Joins, Subqueries, CTEs
-- 📊 **Business Intelligence:** Power BI, DAX, Power Query
-- 📗 **Data Analysis:** Microsoft Excel, Pivot Tables, Lookup Functions
-- 📈 **Data Visualization:** Power BI, Tableau, Matplotlib
-- 🤖 **Machine Learning:** Scikit-learn, Logistic Regression, Classification
-- 🧹 **Data Management:** Data Cleaning, Transformation & EDA
-
----
-
-## 🛠️ Tools & Technologies
-
-`Python` `SQL` `MySQL` `Power BI` `DAX` `Power Query` `Excel` `Tableau` `Pandas` `NumPy` `Matplotlib` `Scikit-learn` `Google Colab`
-## 💪 Professional Strengths
-
-- Transforming raw datasets into meaningful business insights
-- Building interactive dashboards for decision-making
-- Writing SQL queries to extract and analyze business data
-- Performing data cleaning and exploratory data analysis
-- Identifying trends, patterns, and KPIs from complex datasets
-- Presenting analytical findings through clear visualizations
----
+- 📊 Built projects across **Sales, Finance, Healthcare, Customer Analytics, and Machine Learning**
+- 🗄️ Strong foundation in **SQL, data cleaning, EDA, KPI analysis, and data visualization**
+- 📈 Experienced with **Power BI, DAX, Power Query, Excel, and Tableau**
+- 🐍 Working knowledge of **Python, Pandas, NumPy, Matplotlib, and Scikit-learn**
+- 🎯 Currently seeking **Data Analyst, BI Analyst, Business Analyst, and Junior Power BI opportunities**
